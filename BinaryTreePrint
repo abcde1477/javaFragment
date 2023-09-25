@@ -1,4 +1,5 @@
 print a binary tree to console
 
 Usage:
-  as for a tree which has  internal class "node"
+    as for a binary tree class which has internal class node,after extends class PrintableBT for this class,extends PrintableBTN for internal class node and override necessary methods,you can easily call printToConsole() to print this tree to console
+
