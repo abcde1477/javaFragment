@@ -1,0 +1,4 @@
+print a binary tree to console
+
+Usage:
+  as for a tree which has  internal class "node"
